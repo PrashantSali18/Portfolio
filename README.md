@@ -75,7 +75,3 @@ This project can be deployed easily on:
 Prashant Sali
 
 [LinkedIn](https://www.linkedin.com/in/prashant-sali-8aa0091b6) | [GitHub](https://github.com/Prash-Sali) | [Email](mailto:prashantsali502@gmail.com)
-
-## 📄 License
-
-This project is licensed under the **ISC License**.
